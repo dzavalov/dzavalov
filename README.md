@@ -12,8 +12,8 @@
 
 ## Certifications
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
-
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?style=for-the-badge&logoColor=white)
  
 
 
