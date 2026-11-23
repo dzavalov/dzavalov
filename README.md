@@ -10,6 +10,8 @@
 
 ## About Me
 
+I enjoy learning new skills and taking on personal challenges! Always curious.
+
 ## Certifications
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
