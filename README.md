@@ -11,6 +11,8 @@
 ## About Me
 
 I enjoy learning new skills and taking on personal challenges! Always curious.
+Currently working towards getting CompTIA Security+ certified.
+
 
 ## Certifications
 
